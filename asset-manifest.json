@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emailCalculators/static/css/main.9a6d1f18.css",
+    "main.js": "/emailCalculators/static/js/main.dcb81a1b.js",
+    "static/js/453.ed3810f9.chunk.js": "/emailCalculators/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/emailCalculators/index.html",
+    "main.9a6d1f18.css.map": "/emailCalculators/static/css/main.9a6d1f18.css.map",
+    "main.dcb81a1b.js.map": "/emailCalculators/static/js/main.dcb81a1b.js.map",
+    "453.ed3810f9.chunk.js.map": "/emailCalculators/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6d1f18.css",
+    "static/js/main.dcb81a1b.js"
+  ]
+}
